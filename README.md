@@ -2,6 +2,8 @@
 
 **Community-driven bug reports and support for [UITest.dev](https://uitest.dev) - The low-code desktop app for E2E testing and Playwright automation.**
 
+> **⚠️ Development Status**: UITest is currently in active development. The product is not yet available for download. This repository serves as a community hub for early feedback, feature requests, and bug reports as we build towards our first release.
+
 [![UITest](https://img.shields.io/badge/UITest-Pre--Order%20Now-blue?style=for-the-badge)](https://uitest.dev)
 <!-- [![Playwright](https://img.shields.io/badge/Playwright-Testing-green?style=flat)](https://playwright.dev)
 [![macOS](https://img.shields.io/badge/macOS-Ready-lightgrey?style=flat)](https://uitest.dev) -->
@@ -9,8 +11,6 @@
 ## 🚀 About UITest
 
 [UITest](https://uitest.dev) is a revolutionary **low-code desktop application** for creating **browser tests** and **E2E automation** through a visual interface. Built for **macOS** with **Playwright integration**, UITest eliminates the complexity of test automation while generating clean, exportable code.
-
-> **⚠️ Development Status**: UITest is currently in active development. The product is not yet available for download. This repository serves as a community hub for early feedback, feature requests, and bug reports as we build towards our first release.
 
 ### Key Features
 - 🎯 **Visual Test Builder** - Create browser tests without coding
