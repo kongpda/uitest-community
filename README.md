@@ -3,8 +3,8 @@
 **Community-driven bug reports and support for [UITest.dev](https://uitest.dev) - The low-code desktop app for E2E testing and Playwright automation.**
 
 [![UITest](https://img.shields.io/badge/UITest-Pre--Order%20Now-blue?style=for-the-badge)](https://uitest.dev)
-[![Playwright](https://img.shields.io/badge/Playwright-Testing-green?style=flat)](https://playwright.dev)
-[![macOS](https://img.shields.io/badge/macOS-Ready-lightgrey?style=flat)](https://uitest.dev)
+<!-- [![Playwright](https://img.shields.io/badge/Playwright-Testing-green?style=flat)](https://playwright.dev)
+[![macOS](https://img.shields.io/badge/macOS-Ready-lightgrey?style=flat)](https://uitest.dev) -->
 
 ## 🚀 About UITest
 
@@ -42,7 +42,7 @@ Help us improve [UITest.dev](https://uitest.dev) by reporting issues and suggest
 
 ### 🔗 Official Resources
 - 🌐 **Website**: [uitest.dev](https://uitest.dev)
-- 📚 **Documentation**: [uitest.dev/docs](https://uitest.dev) (Coming Soon)
+- 📚 **Documentation**: (Coming Soon) <!-- [uitest.dev/docs](https://uitest.dev)  -->
 - ❓ **FAQ**: [uitest.dev/#faq](https://uitest.dev/#faq)
 - 📧 **Email Support**: Available for pre-order customers
 
@@ -60,6 +60,8 @@ Found a security vulnerability? Please **DO NOT** create a public issue. Contact
 
 **⭐ Star this repo** if UITest helps your testing workflow!
 
-**🔗 Links**: [Pre-order UITest](https://uitest.dev) | [Playwright Docs](https://playwright.dev) | [Testing Best Practices](https://uitest.dev)
+**🔗 Links**: [Pre-order UITest](https://uitest.dev) 
+<!-- | [Playwright Docs](https://playwright.dev)  -->
+<!-- | [Testing Best Practices](https://uitest.dev) -->
 
 *Built with ❤️ by the UITest community*
